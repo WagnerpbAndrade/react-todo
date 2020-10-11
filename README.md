@@ -1,4 +1,4 @@
-# Curso de react [balta.io](balta.io)
+# Curso de react [balta.io](https://balta.io/)
 
 ### Criação de um Todo List em react com conceitos bem legais
 
